@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500498104345",
+    "project_id": "epicstats-e60bf",
+    "storage_bucket": "epicstats-e60bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500498104345:android:fa758223660daaf800aa88",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6GTpVUXaf9xP8-ZBr_9baZeZl320Xsyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
